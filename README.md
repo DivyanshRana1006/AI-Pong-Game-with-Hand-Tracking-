@@ -1,4 +1,5 @@
 🎮 AI Pong Game with Hand Tracking 🖐️
+
 This project is an interactive Pong game where you control the paddle using hand gestures instead of a keyboard or mouse. Using OpenCV and MediaPipe, the game tracks your hand movements in real-time and adjusts the paddle accordingly.
 
 🚀 Features
@@ -28,18 +29,11 @@ Score points by making the ball pass the opponent’s paddle!
 
 ▶️ How to Run
 Install dependencies:
-
-bash
-Copy
-Edit
 pip install opencv-python mediapipe numpy
-Run the game script:
 
-bash
-Copy
-Edit
-python pong_game.py
-Move your hand up and down to control the paddle and enjoy the game!
+python CV.py
+
+
 
 📷 Preview
 
